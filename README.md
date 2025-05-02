@@ -1,3 +1,30 @@
+
+<p align="center">
+  <a href="https://twitter.com/cortexaigroup">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/company/cortexaigroup">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/cortexaigroup">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.facebook.com/cortexaigroup">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/cortexaigroup">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/c/cortexaigroup">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://t.me/cortexaigroup">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+
+
 <div align="center">
 
   <img src="https://github.com/CortexAIGroup/README/blob/main/Green%20and%20Black%20AI%20Banner.png" alt="Cortex AI Banner" width="100%" style="border-radius: 12px;"/>
@@ -82,38 +109,18 @@ Cortex AI Group is a pioneering research & development team dedicated to buildin
 - 🤝 **Foster collaboration** between academia and industry to accelerate AI adoption
 
 ## 💡 Our Projects and Products
-
 <div align="center">
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🔍 **NeoBin** | Intelligent monitoring and surveillance system using computer vision | [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://github.com/cortex-ai-group/neobin) |
-| ⏱️ **Trolog** | Smart attendance system with facial recognition and NFC technology | [![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square)](https://github.com/cortex-ai-group/trolog) |
-| 🚗 **AutoScan** | License plate recognition system with OCR and police database integration | [![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square)](https://github.com/cortex-ai-group/autoscan) |
-| 🤖 **NeoChat** | Specialized chatbots for support, education, and healthcare | [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://github.com/cortex-ai-group/neochat) |
-| 📈 **DonaTrade** | Financial market analysis bot using machine learning | [![Status](https://img.shields.io/badge/Status-Development-yellow?style=flat-square)](https://github.com/cortex-ai-group/donatrade) |
-| 🧪 **SimulX** | Intelligent simulator for education, counseling, and crisis management | [![Status](https://img.shields.io/badge/Status-Planning-lightgrey?style=flat-square)](https://github.com/cortex-ai-group/simulx) |
-| 🎙️ **Dublexa** | AI-powered dubbing with lip-sync and tone matching capabilities | [![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square)](https://github.com/cortex-ai-group/dublexa) |
-| 📞 **Voxa** | Automated and intelligent telephone assistant | [![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square)](https://github.com/cortex-ai-group/voxa) |
-| 🧠 **NeuroLip** | Psychological analysis from text, image, and video | [![Status](https://img.shields.io/badge/Status-Research-purple?style=flat-square)](https://github.com/cortex-ai-group/neurolip) |
+| 🚀 **Product** | 💬 **Description** | 📌 **Status** |
+|----------------|--------------------|---------------|
+| 🔍 **NeoBin** | Intelligent surveillance system with computer vision & anomaly detection | <img src="https://github.com/CortexAIGroup/README/blob/main/neobin.png" alt="NeoBin" width="100" /> <br> <img src="https://img.shields.io/badge/Beta-orange?style=flat-square" alt="Beta" width="100" /> |
+| ⏱️ **Trolog** | Smart attendance platform with facial recognition & NFC integration | <img src="https://github.com/CortexAIGroup/README/blob/main/truelog.png" alt="Trolog" width="100" /> <br> <img src="https://img.shields.io/badge/Beta-orange?style=flat-square" alt="Beta" width="100" /> |
+| 🎙️ **Dublexa** | AI-powered dubbing system with voice cloning & lip-sync features | <img src="https://github.com/CortexAIGroup/README/blob/main/dublexa.png" alt="Dublexa" width="100" /> <br> <img src="https://img.shields.io/badge/Beta-orange?style=flat-square" alt="Beta" width="100" /> |
+| 🤖 **NeoChat** | Specialized chatbots for education, therapy, and organizational support | <img src="https://github.com/CortexAIGroup/README/blob/main/neochat.png" alt="NeoChat" width="100" /> <br> <img src="https://img.shields.io/badge/In%20Progress-blue?style=flat-square" alt="In Progress" width="100" /> |
+| 📈 **DonaTrade** | AI-driven financial analysis bot for smarter trading | <img src="https://github.com/CortexAIGroup/README/blob/main/danatrade.png" alt="DonaTrade" width="100" /> <br> <img src="https://img.shields.io/badge/In%20Progress-blue?style=flat-square" alt="In Progress" width="100" /> |
+| 🧪 **SimulX** | AI simulation platform for training, counseling, and crisis response | <img src="https://github.com/CortexAIGroup/README/blob/main/simulex.png" alt="SimulX" width="100" /> <br> <img src="https://img.shields.io/badge/In%20Development-lightgrey?style=flat-square" alt="In Development" width="100" /> |
+| 📞 **Voxa** | Intelligent phone assistant with scheduling and call handling | <img src="https://github.com/CortexAIGroup/README/blob/main/voxa.png" alt="Voxa" width="100" /> <br> <img src="https://img.shields.io/badge/In%20Development-lightgrey?style=flat-square" alt="In Development" width="100" /> |
+| 🚗 **AutoScan** | Automatic license plate recognition system with OCR & LPR database sync | <img src="https://github.com/CortexAIGroup/README/blob/main/autoscan.png" alt="AutoScan" width="100" /> <br> <img src="https://img.shields.io/badge/In%20Progress-blue?style=flat-square" alt="In Progress" width="100" /> |
+| 🧠 **NeuroLip** | Psychological and emotional analysis from text, images, and voice | <img src="https://github.com/CortexAIGroup/README/blob/main/neuroleap.png" alt="NeuroLip" width="100" /> <br> <img src="https://img.shields.io/badge/Research-purple?style=flat-square" alt="Research" width="100" /> |
 
 </div>
-## 🧩 System Architecture
-
-```mermaid
-graph TD
-    A[Data Collection Layer] --> B[Processing Layer]
-    B --> C[AI Model Layer]
-    C --> D[Application Layer]
-    D --> E[User Interface]
-    
-    F[Cloud Infrastructure] --> A
-    F --> B
-    F --> C
-    F --> D
-    
-    G[Security & Compliance] --> A
-    G --> B
-    G --> C
-    G --> D
-    G --> E
